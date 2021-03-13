@@ -84,12 +84,18 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 - [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
+- [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_GB&gl=US) - Custom widget tool. Create your own dashboard on Android. (Android).
+- [Rainmeter](https://www.rainmeter.net/) - Custom widgets for Windows. Create your own dashboard on your desktop. (Windows).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
 - [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 - [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
 - [Zapier](https://zapier.com/) - Automate tasks between apps.
+- [Integromat](https://www.integromat.com/) - Powerful conditional automation platform.  (Web, iOS & Android).
+- [Eventghost](http://www.eventghost.net/) - Automation tool for Windows. (Windows).
+- [Node-Red](https://nodered.org/)  - Cross platform automation. (Mac, Windows, Linux, iOS & Android).
+- [Join](https://joaoapps.com/join/) - Connect tools on android and Windows. (Windows & Android).
 
 ### Data Collection
 - [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
@@ -123,6 +129,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
 - [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 - [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
+- [Loop Habits](https://github.com/iSoron/uhabits) - Simple habit tracker. (Android).
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
@@ -144,6 +151,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [PhotoStats](http://www.photostats.io/) - Photo tracking with visualizations, analytics and auto-tagging using machine learning (iOS, Android).
 - [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
 - [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
+- [LastCast](https://lastcast.fm/) - Podcast listening tracker. (Web).
 
 ### Mind & Cognition
 - [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
@@ -195,6 +203,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
+- [AndroMoney](https://web.andromoney.com/) - Personal finance tool. (iOS, Android, Web, Windows & Mac)
 
 ## Devices and Wearables
 
@@ -218,6 +227,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
 - [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 - [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
+- [Renpho](https://renpho.com/collections/renpho-scales) - Affordable Bluetooth bathroom scales with body composition and app. (iOS & Android).
 
 ## Research and Analysis
 
